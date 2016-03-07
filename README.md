@@ -10,6 +10,7 @@ Tetristry is a Chemistry themed game which introduces students to the basics of 
 * Class and activity diagrams in UML
 * Program installer
 * Splashscreen
+* Multiple levels
 
 	
 ##Installation
