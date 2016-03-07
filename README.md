@@ -5,11 +5,11 @@ Tetristry is a Chemistry themed game which introduces students to the basics of 
 
 ##Features
 
-*Full Java documentation & Help file
-*Highscores recorded
-*Class and activity diagrams in UML
-*Program installer
-*Splashscreen
+* Full Java documentation & Help file
+* Highscores recorded
+* Class and activity diagrams in UML
+* Program installer
+* Splashscreen
 
 	
 ##Installation
@@ -38,10 +38,10 @@ None we are currently aware of.
 
 ##Troubleshooting
 
-*Ensure your computer meets the minimum system requirements
-*Ensure you have the latest version of Java
-*Ensure that you did not install the program into Program Files
-*Uninstall game, reboot computer and then reinstall game
+* Ensure your computer meets the minimum system requirements
+* Ensure you have the latest version of Java
+* Ensure that you did not install the program into Program Files
+* Uninstall game, reboot computer and then reinstall game
 	*Try running game in compatibility mode
 	
 
