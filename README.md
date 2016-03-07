@@ -4,6 +4,7 @@
 Tetristry is a Chemistry themed game which introduces students to the basics of chemical compound nomenclature. Pieces representing elements of the periodic table are dropped at random. The dropping pieces can be moved left and right. The goal of the game is to clear as many pieces as possible before the timer runs out. If the pieces exceed the game board height, the player loses. This game contains full Java documentation in addition to class diagrams in UML.
 
 ##Features
+
 *Full Java documentation & Help file
 *Highscores recorded
 *Class and activity diagrams in UML
