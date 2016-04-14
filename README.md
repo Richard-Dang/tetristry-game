@@ -6,7 +6,7 @@ Tetristry is a Chemistry themed game which introduces students to the basics of 
 ##Features
 
 * Full Java documentation & Help file
-* Highscores recorded
+* Highscores recorded and printable
 * Class and activity diagrams in UML
 * Program installer
 * Splashscreen
