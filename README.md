@@ -1,9 +1,9 @@
-#Tetristry
+# Tetristry
 
-##Description
+## Description
 Tetristry is a Chemistry themed game which introduces students to the basics of chemical compound nomenclature. Pieces representing elements of the periodic table are dropped at random. The dropping pieces can be moved left and right. The goal of the game is to clear as many pieces as possible before the timer runs out. If the pieces exceed the game board height, the player loses. 
 
-##Features
+## Features
 
 * Full Java documentation & Help file
 * Highscores recorded and printable
@@ -13,7 +13,7 @@ Tetristry is a Chemistry themed game which introduces students to the basics of 
 * Multiple levels
 
 	
-##Installation
+## Installation
 
 Before installing Tetristry, it is recommended that you update to 
 the latest version of Java.To begin, insert the game disc into a 
@@ -26,18 +26,18 @@ because the highscore file cannot be modified within Program Files.
 If you would like to uninstall, find the installation folder in
 the C Drive and run the uninstaller exe.
 
-##Contact 
+## Contact 
 
 If you have problems, questions, ideas or suggestions, please contact
  us by email at:
  
 richardspacedang@gmail.com 	|| 	benson.xds@gmail.com
 
-##Known Bugs
+## Known Bugs
 	
 None we are currently aware of.
 
-##Troubleshooting
+## Troubleshooting
 
 * Ensure your computer meets the minimum system requirements
 * Ensure you have the latest version of Java
@@ -46,11 +46,11 @@ None we are currently aware of.
 	*Try running game in compatibility mode
 	
 
-##Credits and Acknowledgement
+## Credits and Acknowledgement
 
 Tetristry by Richard Dang and Benson Guo. 
 
-##Copyright
+## Copyright
 
 Copyright (c) <June 1st, 2014> by <RBCS Inc.> All Rights Reserved.
 Tetristry and its use are subject to a license agreement and are
