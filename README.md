@@ -12,6 +12,9 @@ Tetristry is a Chemistry themed game which introduces students to the basics of 
 * Splashscreen
 * Multiple levels
 
+## Screenshots
+
+![Tetristry](http://richarddang.com/images/portfolio/tetristry.gif)
 	
 ## Installation
 
